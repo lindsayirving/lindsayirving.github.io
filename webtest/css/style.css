@@ -162,7 +162,7 @@ header h1 {
 .is-visible .cd-resize-img {
   width: 50%;
   /* bounce in animation of the modified image */
-  -webkit-animation: cd-bounce-in 0.7s;
+/*  -webkit-animation: cd-bounce-in 0.7s;
   -moz-animation: cd-bounce-in 0.7s;
   animation: cd-bounce-in 0.7s;
 }
@@ -197,7 +197,7 @@ header h1 {
   }
   100% {
     width: 50%;
-  }
+  }*/
 }
 .cd-handle {
   position: absolute;
